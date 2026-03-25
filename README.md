@@ -9,4 +9,5 @@ Kullandığım teknolojiler başlıca
 * C#
 
  -- Geliştirici Hakkında
+ 
 Yazılım dünyasında kendini geliştiren, düşük seviyeli dillerden oyun motorlarına kadar geniş bir yelpazede bilgisayar mimarisi ve yazılım mühendisliği ile ilgilenen bir mühendis adayıyım.
